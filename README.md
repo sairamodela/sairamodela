@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile.jpg" width="180" style="border-radius:50%">
+
 # Hi there, I'm sairam Odela 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Python+%7C+FastAPI+%7C+AWS;Building+enterprise+AI+platforms;RAG+%7C+LLMs+%7C+GenAI;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
