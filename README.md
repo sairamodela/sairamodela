@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img src="light_mode.svg" alt="sairamodela's GitHub profile as ASCII art">
-  </picture>
+  <img src="custom_card.svg" alt="sairamodela's profile as ASCII art" width="900">
 </div>
 
 <div align="center">
