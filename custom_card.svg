@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+</linearGradient></defs>
+<rect width="900" height="480" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+<text x="420" y="70" fill="#58A6FF" font-family="monospace" font-size="22" font-weight="bold">sairamodela@github</text>
+<text x="420" y="110" fill="#8b949e" font-family="monospace" font-size="14">─────────────────</text>
+<text x="420" y="140" fill="#c9d1d9" font-family="monospace" font-size="14">Uptime: 3 years, 7 months</text>
+<text x="420" y="170" fill="#c9d1d9" font-family="monospace" font-size="14">Languages:</text>
+<rect x="420" y="182" width="120" height="10" rx="3" fill="#30363d"/>
+<rect x="420" y="182" width="38" height="10" rx="3" fill="#DA5B0B"/>
+<text x="550" y="191" fill="#8b949e" font-family="monospace" font-size="11">Jupyter 32%</text>
+<rect x="420" y="200" width="120" height="10" rx="3" fill="#30363d"/>
+<rect x="420" y="200" width="24" height="10" rx="3" fill="#e34c26"/>
+<text x="550" y="209" fill="#8b949e" font-family="monospace" font-size="11">HTML 20%</text>
+<text x="420" y="250" fill="#c9d1d9" font-family="monospace" font-size="14">Contact: github.com/sairamodela</text>
+<text x="420" y="290" fill="#3fb950" font-family="monospace" font-size="14">Software Engineer</text>
+<text x="420" y="315" fill="#8b949e" font-family="monospace" font-size="13">Python | FastAPI | AWS</text>
+<text x="420" y="340" fill="#8b949e" font-family="monospace" font-size="13">GenAI | RAG | LLMs</text>
+
+<text x="30" y="40" fill="#c9d1d9" font-family="monospace" font-size="8">-----------:::::::::::::::..................</text>
+<text x="30" y="49" fill="#c9d1d9" font-family="monospace" font-size="8">------------::::::::::...::-:.::... .......</text>
+<text x="30" y="58" fill="#c9d1d9" font-family="monospace" font-size="8">------------::::::::::=++*#@%#%@*--=-.   .</text>
+<text x="30" y="67" fill="#c9d1d9" font-family="monospace" font-size="8">-------------:::::=+#%@@@@@@@@@@@@@@@*+-: .</text>
+<text x="30" y="76" fill="#c9d1d9" font-family="monospace" font-size="8">-------------:-=+%%%@@@@@@@@@@@@@@@@@@%##::</text>
+<text x="30" y="85" fill="#c9d1d9" font-family="monospace" font-size="8">=------------*%@@@@@@@@@@@@@@@@@@@@@@@@@%*-</text>
+<text x="30" y="94" fill="#c9d1d9" font-family="monospace" font-size="8">==----------=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+<text x="30" y="103" fill="#c9d1d9" font-family="monospace" font-size="8">==------=--=#@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%-</text>
+<text x="30" y="112" fill="#c9d1d9" font-family="monospace" font-size="8">==-------==#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+<text x="30" y="121" fill="#c9d1d9" font-family="monospace" font-size="8">=========-+@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@:</text>
+<text x="30" y="130" fill="#c9d1d9" font-family="monospace" font-size="8">===========*@@@@@@@@@@@@@@@@@@%###%@@@@@@@@@*.</text>
+<text x="30" y="139" fill="#c9d1d9" font-family="monospace" font-size="8">+++++++++++=*@@@@@@@@@@@@@%*++=--===*#+#@@@@=</text>
+<text x="30" y="148" fill="#c9d1d9" font-family="monospace" font-size="8">+++++++++++++%@@@@@@@@@@%#+=: .:-.   . :@@@@-</text>
+<text x="30" y="157" fill="#c9d1d9" font-family="monospace" font-size="8">********+++++*@@@@@@@@@@@@%#+:::-=--:.  %@@*</text>
+<text x="30" y="166" fill="#c9d1d9" font-family="monospace" font-size="8">*********++++*@@@@@@@@@@@%@@@#+-+#%%*-: %@+</text>
+<text x="30" y="175" fill="#c9d1d9" font-family="monospace" font-size="8">#*********+++*@@@@@@@@@@@**@@%. *@@%=+..@=</text>
+<text x="30" y="184" fill="#c9d1d9" font-family="monospace" font-size="8">###********+++%@@@@@@%%###%@@#  .+#+.. :=</text>
+<text x="30" y="193" fill="#c9d1d9" font-family="monospace" font-size="8">####******+++=#@@@@@@#+==*@@@*.        .</text>
+<text x="30" y="202" fill="#c9d1d9" font-family="monospace" font-size="8">###*#******+++*%@@@@@%*+*@@@@*.</text>
+<text x="30" y="211" fill="#c9d1d9" font-family="monospace" font-size="8">#####******+++==*@@@@@##%@@@@@=--      .</text>
+<text x="30" y="220" fill="#c9d1d9" font-family="monospace" font-size="8">#####*****+=+===+@@@@@@@@@@@*-=</text>
+<text x="30" y="229" fill="#c9d1d9" font-family="monospace" font-size="8">####******+++===-*@@@@@@@@@@#==-:++.  ..</text>
+<text x="30" y="238" fill="#c9d1d9" font-family="monospace" font-size="8">###********++===--%@@@@@@@@#+=:...-. ....</text>
+<text x="30" y="247" fill="#c9d1d9" font-family="monospace" font-size="8">###*****++++++=---%@@@@@@%#**+-.   ::   .</text>
+<text x="30" y="256" fill="#c9d1d9" font-family="monospace" font-size="8">#*******++++==++*%@@@@@@@@*=:.   ...#*-. .</text>
+<text x="30" y="265" fill="#c9d1d9" font-family="monospace" font-size="8">#********+++*%@@@@@@@@@@@@@%%#**:.. +@@%*==:.</text>
+<text x="30" y="274" fill="#c9d1d9" font-family="monospace" font-size="8">#*******##%@@@@@@@@@@@@@@@%%#%#-.. -@@@@@@@@@*==:.</text>
+<text x="30" y="283" fill="#c9d1d9" font-family="monospace" font-size="8">#**##%@@@@@@@@@@@@@@@@@@@#*+=-:...+@@@@@%@@@@@@@@%+==:</text>
+<text x="30" y="292" fill="#c9d1d9" font-family="monospace" font-size="8">#%@@@@@@@@@@@@@@@@@@@@@%%#**+-.:=%@@@@@@@@@@@@@@@@@@@@#</text>
+<text x="30" y="301" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@**##*==+%@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="310" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@%@%+*##%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="319" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="328" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="337" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="346" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="355" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="30" y="364" fill="#c9d1d9" font-family="monospace" font-size="8">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+</svg>
