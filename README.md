@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=sairam%20Odela&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img src="light_mode.svg" alt="sairamodela's GitHub profile as ASCII art">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="profile.jpg" width="160" style="border-radius:50%; border: 3px solid #58A6FF;" />
-  <br><br>
   <a href="https://github.com/sairamodela"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Python+%7C+FastAPI+%7C+AWS;Building+enterprise+AI+platforms;RAG+%7C+LLMs+%7C+GenAI;Always+shipping+%F0%9F%9A%80" /></a>
 </div>
 
